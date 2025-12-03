@@ -1,12 +1,12 @@
 {
 	"configurations": [
 		{
-			"name": "CS4085Editor Editor Win64 Development (CS4085)",
+			"name": "CS4085_1Editor Editor Win64 Development (CS4085_1)",
 			"compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
 			"cStandard": "c17",
 			"cppStandard": "c++20",
 			"intelliSenseMode": "msvc-x64",
-			"compileCommands": "C:\\Users\\Lenowo\\Documents\\Unreal Projects\\CS4085\\.vscode\\compileCommands_CS4085.json"
+			"compileCommands": "C:\\Users\\Lenowo\\Documents\\Unreal Projects\\CS4085_1\\.vscode\\compileCommands_CS4085_1.json"
 		},
 		{
 			"name": "Win32",
@@ -14,7 +14,7 @@
 			"cStandard": "c17",
 			"cppStandard": "c++20",
 			"intelliSenseMode": "msvc-x64",
-			"compileCommands": "C:\\Users\\Lenowo\\Documents\\Unreal Projects\\CS4085\\.vscode\\compileCommands_Default.json"
+			"compileCommands": "C:\\Users\\Lenowo\\Documents\\Unreal Projects\\CS4085_1\\.vscode\\compileCommands_Default.json"
 		}
 	]
 }

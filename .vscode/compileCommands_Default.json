@@ -1,25 +1,25 @@
 [
 	{
-		"file": "C:\\Users\\Lenowo\\Documents\\Unreal Projects\\CS4085\\Source\\CS4085\\CS4085.Build.cs",
+		"file": "C:\\Users\\Lenowo\\Documents\\Unreal Projects\\CS4085_1\\Source\\CS4085_1\\CS4085_1.Build.cs",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Lenowo\\Documents\\Unreal Projects\\CS4085\\.vscode\\compileCommands_Default\\CS4085.1.rsp"
+			"@C:\\Users\\Lenowo\\Documents\\Unreal Projects\\CS4085_1\\.vscode\\compileCommands_Default\\CS4085_1.1.rsp"
 		],
 		"directory": "D:\\Fun Folder\\Other\\UE_5.7\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Lenowo\\Documents\\Unreal Projects\\CS4085\\Source\\CS4085\\CS4085.cpp",
+		"file": "C:\\Users\\Lenowo\\Documents\\Unreal Projects\\CS4085_1\\Source\\CS4085_1\\CS4085_1.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Lenowo\\Documents\\Unreal Projects\\CS4085\\.vscode\\compileCommands_Default\\CS4085.1.rsp"
+			"@C:\\Users\\Lenowo\\Documents\\Unreal Projects\\CS4085_1\\.vscode\\compileCommands_Default\\CS4085_1.1.rsp"
 		],
 		"directory": "D:\\Fun Folder\\Other\\UE_5.7\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Lenowo\\Documents\\Unreal Projects\\CS4085\\Source\\CS4085\\CS4085.h",
+		"file": "C:\\Users\\Lenowo\\Documents\\Unreal Projects\\CS4085_1\\Source\\CS4085_1\\CS4085_1.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Lenowo\\Documents\\Unreal Projects\\CS4085\\.vscode\\compileCommands_Default\\CS4085.1.rsp"
+			"@C:\\Users\\Lenowo\\Documents\\Unreal Projects\\CS4085_1\\.vscode\\compileCommands_Default\\CS4085_1.1.rsp"
 		],
 		"directory": "D:\\Fun Folder\\Other\\UE_5.7\\Engine\\Source"
 	}
